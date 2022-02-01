@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Principles_Of_Programming_Hometasks", "Principles_Of_Programming_Hometasks\_Principles_Of_Programming_Hometasks.csproj", "{54C6FBB5-D361-43D0-AB26-A4CFAA54B06B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_01_Strings", "Lesson_01_Strings\Lesson_01_Strings.csproj", "{BED486AC-1FA8-4B2F-8075-304FDC0A6607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54C6FBB5-D361-43D0-AB26-A4CFAA54B06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C6FBB5-D361-43D0-AB26-A4CFAA54B06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C6FBB5-D361-43D0-AB26-A4CFAA54B06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C6FBB5-D361-43D0-AB26-A4CFAA54B06B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED486AC-1FA8-4B2F-8075-304FDC0A6607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED486AC-1FA8-4B2F-8075-304FDC0A6607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED486AC-1FA8-4B2F-8075-304FDC0A6607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED486AC-1FA8-4B2F-8075-304FDC0A6607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C8E2771-28EB-4E5E-80BA-9D9F67311BA8}
+	EndGlobalSection
+EndGlobal
