@@ -10,7 +10,9 @@ namespace Lesson_01_Strings
 
             // Task06_ParseURL.RunTheProgram();
 
-            Homework_EmailExtract.RunTheProgram();
+            // Homework_EmailExtract.RunTheProgram();
+
+            Homework_RemoveTags.RunTheProgram();
 
             Console.ReadKey();
         }

@@ -21,6 +21,7 @@ namespace Lesson_01_Strings
             return "Please contact us by phone (+001 222 222 222) or by email\nat example@gmail.com or at test.user@yahoo.co.uk.";
         }
 
+        // Extract email or emails using Regex
         private static string ExtractEmail(string input)
         {
             Regex patternForEmail = new Regex(@"[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,6}", RegexOptions.IgnoreCase);
