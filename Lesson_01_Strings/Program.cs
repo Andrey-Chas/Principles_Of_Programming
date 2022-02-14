@@ -8,7 +8,9 @@ namespace Lesson_01_Strings
         {
             // Task05_ReplaceWords.RunTheProgram();
 
-            Task06_ParseURL.RunTheProgram();
+            // Task06_ParseURL.RunTheProgram();
+
+            Homework_EmailExtract.RunTheProgram();
 
             Console.ReadKey();
         }
