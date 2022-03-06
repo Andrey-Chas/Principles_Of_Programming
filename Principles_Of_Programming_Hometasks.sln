@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_Principles_Of_Programming_Hometasks", "Principles_Of_Programming_Hometasks\_Principles_Of_Programming_Hometasks.csproj", "{54C6FBB5-D361-43D0-AB26-A4CFAA54B06B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Principles_Of_Programming_Hometasks", "Principles_Of_Programming_Hometasks\_Principles_Of_Programming_Hometasks.csproj", "{54C6FBB5-D361-43D0-AB26-A4CFAA54B06B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_01_Strings", "Lesson_01_Strings\Lesson_01_Strings.csproj", "{BED486AC-1FA8-4B2F-8075-304FDC0A6607}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson_01_Strings", "Lesson_01_Strings\Lesson_01_Strings.csproj", "{BED486AC-1FA8-4B2F-8075-304FDC0A6607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_02_Classes", "Lesson_02_Classes\Lesson_02_Classes.csproj", "{B1FF57F5-AE52-4DAC-AB56-63D597DD7F4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BED486AC-1FA8-4B2F-8075-304FDC0A6607}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BED486AC-1FA8-4B2F-8075-304FDC0A6607}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BED486AC-1FA8-4B2F-8075-304FDC0A6607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1FF57F5-AE52-4DAC-AB56-63D597DD7F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1FF57F5-AE52-4DAC-AB56-63D597DD7F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1FF57F5-AE52-4DAC-AB56-63D597DD7F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1FF57F5-AE52-4DAC-AB56-63D597DD7F4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

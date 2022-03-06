@@ -57,6 +57,5 @@ namespace Lesson_01_Strings
         {
             Console.WriteLine(output.Trim());
         }
-
     }
 }

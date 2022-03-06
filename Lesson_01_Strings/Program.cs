@@ -12,7 +12,7 @@ namespace Lesson_01_Strings
 
             // Homework_EmailExtract.RunTheProgram();
 
-            Homework_RemoveTags.RunTheProgram();
+            // Homework_RemoveTags.RunTheProgram();
 
             Console.ReadKey();
         }
