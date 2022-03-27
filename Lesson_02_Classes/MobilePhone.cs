@@ -59,11 +59,17 @@ namespace Lesson_02_Classes
 
         public class GSM
         {
+            List<object> phones = new List<object>();
+
             MoblilePhone nokia = new MoblilePhone("Nokia N95", "Nokia", 95, "Jhon Smith");
             Battery superBattery = new Battery("G5", 100, 90);
             Screen bigScreen = new Screen(8, "Black");
             public override string ToString()
             {
+                phones.Add(nokia);
+                phones.Add(superBattery);
+                phones.Add(bigScreen);
+
                 nokia.NokiaCreated();
                 return $"Mobile phone. Model: {nokia.model}, Manufacturer: {nokia.manufacturer}, Price: {nokia.price}, \nOwner: {nokia.owner}" +
                     $"\nBattery. Model: {superBattery.model}, Idle time: {superBattery.idleTime}, Hour Talk: {superBattery.hourTalk}" +

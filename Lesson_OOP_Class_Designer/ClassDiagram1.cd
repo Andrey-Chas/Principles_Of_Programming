@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lesson_OOP_Class_Designer.Class">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lesson_OOP_Class_Designer.Student">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAIAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Class" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Lesson_OOP_Class_Designer.Teacher">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <AssociationLine Name="Class" Type="Lesson_OOP_Class_Designer.Class" ManuallyRouted="true">
+      <Path>
+        <Point X="5.25" Y="1.052" />
+        <Point X="4.731" Y="1.052" />
+        <Point X="4.731" Y="2.184" />
+        <Point X="4.25" Y="2.184" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIIAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Teacher.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Class" />
+      <Property Name="Course" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Lesson_OOP_Class_Designer.Course">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAgAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
