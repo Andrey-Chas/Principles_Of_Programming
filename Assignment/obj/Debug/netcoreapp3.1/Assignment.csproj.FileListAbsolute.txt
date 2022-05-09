@@ -1,0 +1,14 @@
+C:\Users\диан\source\repos\Principles_Of_Programming\Assignment\bin\Debug\netcoreapp3.1\Assignment.exe
+C:\Users\диан\source\repos\Principles_Of_Programming\Assignment\bin\Debug\netcoreapp3.1\Assignment.deps.json
+C:\Users\диан\source\repos\Principles_Of_Programming\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
+C:\Users\диан\source\repos\Principles_Of_Programming\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+C:\Users\диан\source\repos\Principles_Of_Programming\Assignment\bin\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\диан\source\repos\Principles_Of_Programming\Assignment\bin\Debug\netcoreapp3.1\Assignment.pdb
+C:\Users\диан\source\repos\Principles_Of_Programming\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.AssemblyReference.cache
+C:\Users\диан\source\repos\Principles_Of_Programming\Assignment\obj\Debug\netcoreapp3.1\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\диан\source\repos\Principles_Of_Programming\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+C:\Users\диан\source\repos\Principles_Of_Programming\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+C:\Users\диан\source\repos\Principles_Of_Programming\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
+C:\Users\диан\source\repos\Principles_Of_Programming\Assignment\obj\Debug\netcoreapp3.1\Assignment.dll
+C:\Users\диан\source\repos\Principles_Of_Programming\Assignment\obj\Debug\netcoreapp3.1\Assignment.pdb
+C:\Users\диан\source\repos\Principles_Of_Programming\Assignment\obj\Debug\netcoreapp3.1\Assignment.genruntimeconfig.cache
